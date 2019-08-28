@@ -1,0 +1,36 @@
+body {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: #ee4035;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+    text-align: center;
+    color: #56b949;
+}
+
+table {
+    font-size: 15px;
+    text-align: center;
+    border: 2px solid #56b949;
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: #56b949;
+}
+
+th {
+    border: 1px solid #56b949;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
